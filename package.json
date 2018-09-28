@@ -136,7 +136,7 @@
     "@babel/core": "^7.1.2",
     "@babel/plugin-transform-async-to-generator": "^7.1.0",
     "@babel/polyfill": "^7.0.0",
-    "@babel/runtime": "^7.0.0",
+    "@babel/runtime": "^7.1.2",
     "btoa": "^1.1.2",
     "kinto-http": ">=4.3.3",
     "uuid": "^3.0.0"
